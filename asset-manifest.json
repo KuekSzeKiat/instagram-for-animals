@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/instagram-for-animals/static/css/main.b3a87d1e.css",
-    "main.js": "/instagram-for-animals/static/js/main.d02af8bd.js",
+    "main.js": "/instagram-for-animals/static/js/main.2d8b18b5.js",
     "static/js/787.9c2018b3.chunk.js": "/instagram-for-animals/static/js/787.9c2018b3.chunk.js",
     "index.html": "/instagram-for-animals/index.html",
     "main.b3a87d1e.css.map": "/instagram-for-animals/static/css/main.b3a87d1e.css.map",
-    "main.d02af8bd.js.map": "/instagram-for-animals/static/js/main.d02af8bd.js.map",
+    "main.2d8b18b5.js.map": "/instagram-for-animals/static/js/main.2d8b18b5.js.map",
     "787.9c2018b3.chunk.js.map": "/instagram-for-animals/static/js/787.9c2018b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3a87d1e.css",
-    "static/js/main.d02af8bd.js"
+    "static/js/main.2d8b18b5.js"
   ]
 }
